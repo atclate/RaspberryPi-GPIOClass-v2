@@ -13,7 +13,7 @@ For more information please visit:  http://hertaville.com/2012/11/18/introductio
 
 To build example natively on the Raspberry Pi: 
 
-g++ -fpermissive -Wall GPIOClass.cpp GPIOtest.cpp -o outBin
+g++ -fpermissive -Wall GPIOClass.cpp GPIOClassTest.cpp -o outBin
 
 
 
